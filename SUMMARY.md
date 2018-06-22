@@ -12,4 +12,8 @@
 * [4. Drupal Exp Page Block Builder](4.-drupal-exp-page-block-builder.md)
 * [5. Drupalexp Layer Slider](untitled.md)
 * [6. Drupalexp Mega menu](6.-drupalexp-mega-menu.md)
+* [7. Animation settings](7.-animation-settings.md)
+* [8. Portfolio](8.-portfolio.md)
+* [9. Blog](9.-blog.md)
+* [10. Team](untitled-1.md)
 
