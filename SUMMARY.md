@@ -27,4 +27,5 @@
 * [8. Portfolio](8.-portfolio.md)
 * [9. Blog](9.-blog.md)
 * [10. Team](untitled-1.md)
+* [Contact author](contact-author.md)
 
