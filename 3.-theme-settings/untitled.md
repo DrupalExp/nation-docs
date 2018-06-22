@@ -6,3 +6,5 @@ On Theme settings page \([http://yoursite.com/admin/appearance/settings/nation](
 
 ![](../.gitbook/assets/nation-layout%20%281%29.png)
 
+For more detail about layout here: [https://docs.drupalexp.com/drupalexp-framework](https://docs.drupalexp.com/drupalexp-framework)
+
