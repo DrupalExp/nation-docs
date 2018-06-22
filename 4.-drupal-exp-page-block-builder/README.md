@@ -1,4 +1,4 @@
-# 4. Drupal Exp Page Block Builder
+# 5. Drupal Exp Page Block Builder
 
 ### Introduce Dexp builder module
 
@@ -10,7 +10,7 @@ You can use it in both page and block.
 
 You must make sure module Drupalexp Visual Shortcode Builder is enabled. After installing it, access to [http://yoursiteurl.com/admin/config/content/formats](http://yoursiteurl.com**/admin/config/content/formats) you will see new text format called Drupalexp Builder
 
-![](.gitbook/assets/dexp-builder-format.png)
+![](../.gitbook/assets/dexp-builder-format.png)
 
 Click on Configure and scroll down, you can choose shortcodes you want to use in your site with this module. Now, when create page/block, you must choose this textformat Drupalexp Builder
 

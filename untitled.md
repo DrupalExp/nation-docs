@@ -1,4 +1,4 @@
-# 5. Drupalexp Layer Slider
+# 6. Drupalexp Layer Slider
 
 L
 
