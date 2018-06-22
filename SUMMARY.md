@@ -11,4 +11,5 @@
   * [3.3 Font Settings](3.-theme-settings/3.3-font-settings.md)
 * [4. Drupal Exp Page Block Builder](4.-drupal-exp-page-block-builder.md)
 * [5. Drupalexp Layer Slider](untitled.md)
+* [6. Drupalexp Mega menu](6.-drupalexp-mega-menu.md)
 
