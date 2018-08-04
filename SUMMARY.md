@@ -28,4 +28,8 @@
 * [9. Blog](9.-blog.md)
 * [10. Team](untitled-1.md)
 * [Contact author](contact-author.md)
+* [9.1 Blog Teaser Layout](9.1-blog-teaser-layout.md)
+* [9.2 Blog List Layout](9.2-blog-list-layout.md)
+* [9.3 Blog dark slider layout](9.3-blog-dark-slider-layout.md)
+* [9.4 Blog Single Layout](9.4-blog-single-layout.md)
 
