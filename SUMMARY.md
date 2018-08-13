@@ -32,5 +32,7 @@
   * [9.3 Blog dark slider layout](9.-blog/9.3-blog-dark-slider-layout.md)
   * [9.4 Blog Single Layout](9.-blog/9.4-blog-single-layout.md)
 * [10. Team](untitled-1.md)
+* [11. Shop](11.-shop/README.md)
+  * [11.1 Shop view](11.-shop/11.1-shop-view.md)
 * [Contact author](contact-author.md)
 
