@@ -34,5 +34,6 @@
 * [10. Team](untitled-1.md)
 * [11. Shop](11.-shop/README.md)
   * [11.1 Shop view](11.-shop/11.1-shop-view.md)
+  * [11.2 Shop detail page](11.-shop/11.2-shop-detail-page.md)
 * [Contact author](contact-author.md)
 
