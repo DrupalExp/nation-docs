@@ -31,7 +31,7 @@
   * [9.2 Blog List Layout](9.-blog/9.2-blog-list-layout.md)
   * [9.3 Blog dark slider layout](9.-blog/9.3-blog-dark-slider-layout.md)
   * [9.4 Blog Single Layout](9.-blog/9.4-blog-single-layout.md)
-* [10. Team](untitled-1.md)
+* [10. Team](team.md)
 * [11. Shop](11.-shop/README.md)
   * [11.1 Shop view](11.-shop/11.1-shop-view.md)
   * [11.2 Shop detail page](11.-shop/11.2-shop-detail-page.md)
