@@ -1,4 +1,4 @@
-# 5. Drupal Exp Page Block Builder
+# 5. DrupalExp Builder
 
 ### Introduce Dexp builder module
 

@@ -10,7 +10,7 @@
   * [3.2 Color Settings](3.-theme-settings/untitled-1.md)
   * [3.3 Font Settings](3.-theme-settings/3.3-font-settings.md)
 * [4. Animation settings](7.-animation-settings.md)
-* [5. Drupal Exp Page Block Builder](4.-drupal-exp-page-block-builder/README.md)
+* [5. DrupalExp Builder](4.-drupal-exp-page-block-builder/README.md)
   * [5.1 Bootstrap row](4.-drupal-exp-page-block-builder/4.1-bootstrap-row.md)
   * [5.2 Boostrap column](4.-drupal-exp-page-block-builder/untitled-2.md)
   * [5.3 Accordions boostrap](4.-drupal-exp-page-block-builder/4.3-accordions-boostrap.md)
