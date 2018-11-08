@@ -1,4 +1,4 @@
-# 6. Drupalexp Layer Slider
+# 6. DrupalExp Layer Slider
 
 Dexp LayerSlider is a premium module which help you build a slider extends from Revolution Slider plugin visually and quickly in Drupal GUI
 
